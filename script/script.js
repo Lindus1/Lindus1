@@ -1,4 +1,4 @@
-var id = '54'
-const a=34
-a=45;
+//var id = '54'
+let a='Hello world'
+a='Goodbay world'
 alert(a)
